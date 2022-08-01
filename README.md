@@ -87,6 +87,8 @@ house_number = input("Please enter your house number")
 - Name it as `.gitignore`
 - Add all files to be ignored after an asterick. Eg `*./idea`
 
+![Screenshot 2022-08-01 at 17 56 59](https://user-images.githubusercontent.com/102330725/182202750-e5ae9997-03e1-4288-8a09-fc352037f2ea.png)
+
 
 ### Definition of Done
 
