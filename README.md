@@ -40,7 +40,7 @@ address= input("Please enter your address?")
     
  ```
 
-**len** is another method on python that gives back the length of the string. This block of code utilises the length method to check for a valid postcode
+**len** is another method on python that gives back the length of the string. This block of code utilises the length method to check for a valid postcode. It aslo utilises the comparison operator `==`
 
 ```python
 postcode = input("Please enter a valid postcode")
